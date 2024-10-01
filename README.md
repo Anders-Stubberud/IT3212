@@ -44,11 +44,11 @@ Source code is separated as much as possible from domain/project specifics and i
 Data is provided from a Kaggle competition: [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data).
 
 ## **Compute**
-Assumed running on IDUN HPC (Linux environment)
+Assumed running on IDUN - High Performance Computing (Linux environment)
 * Runtime: Python vXYZ is recommended, dependencies documented in [requirements.yaml](./requirements.yaml)
 * GPU: NVIDIA XYZ
 * Model complexity: XYZ parameters (XYZ MB)
-* Dataset storage: XYZ MB 
+* Dataset storage: 125 MB 
 * GPU VRAM utilization: XYZ MB (XYZ%)
 
 ## **Developer Information**
