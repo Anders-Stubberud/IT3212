@@ -4,7 +4,9 @@
 In this competition, you will predict sales for the thousands of product families sold at Favorita stores located in Ecuador. The training data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models.
 
 ## **Code Structure**
-* [assignment_1](./assignment_1): Data Pre-processing
+* [Assignment 1 - Data Pre-processing](./assignment_1) 
+<br>
+The objective is to understand and apply data preprocessing techniques on a dataset. Learning how to clean, transform, and prepare data for modeling, focusing on various steps involved in data preprocessing such as handling missing values, encoding categorical data, feature scaling, and data splitting.
 * [assignment_2](./assignment_2): 
 * [assignment_3](./assignment_3): 
 * [assignment_4](./assignment_4): 
@@ -42,9 +44,9 @@ Source code is separated as much as possible from domain/project specifics and i
 Data is provided from a Kaggle competition: [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data).
 
 ## **Compute**
-Assumed running on Cybele computer (Linux environment)
+Assumed running on IDUN HPC (Linux environment)
 * Runtime: Python vXYZ is recommended, dependencies documented in [requirements.yaml](./requirements.yaml)
-* GPU: NVIDIA GeForce RTX 4090
+* GPU: NVIDIA XYZ
 * Model complexity: XYZ parameters (XYZ MB)
 * Dataset storage: XYZ MB 
 * GPU VRAM utilization: XYZ MB (XYZ%)
