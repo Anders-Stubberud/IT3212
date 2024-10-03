@@ -10,6 +10,8 @@ The objective is to understand and apply data preprocessing techniques on a data
 * [assignment_2](./assignment_2): 
 * [assignment_3](./assignment_3): 
 * [assignment_4](./assignment_4): 
+* [data](./data): 
+
 
 
 ## **Installation and Requirements**
