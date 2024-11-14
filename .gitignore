@@ -7,3 +7,10 @@ cache/
 venv/
 assignment_3/klar_for_oppgave_5.csv
 /assignment_3/stock-market
+assignment_3/boost_anders_data.ipynb
+assignment_3/boost_old.ipynb
+assignment_3/boost_orig_data.ipynb
+assignment_3/boost_XGB.ipynb
+assignment_3/boosting.ipynb
+assignment_3/test.ipynb
+assignment_3/bagging_old.ipynb
