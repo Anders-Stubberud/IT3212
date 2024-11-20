@@ -14,3 +14,5 @@ assignment_3/boost_XGB.ipynb
 assignment_3/boosting.ipynb
 assignment_3/test.ipynb
 assignment_3/bagging_old.ipynb
+/assignment_4/thomas/facial-emotion-recognition
+*.pth
